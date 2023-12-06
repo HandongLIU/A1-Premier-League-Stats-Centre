@@ -17,3 +17,21 @@ Achievable: Make sure the goals on your website are realistic and achievable:
 - Provide concise and efficient data content to attract more visitors to the website.
 - Provide authoritative and real data, and the data is updated daily to attract more visitors to the website
 .
+
+## Introduction to web pages produced by wordpress  
+The home page displays the Dashboard, which summarizes some simple and clear player data.  
+- Goal
+-Assist
+-Clean Sheets  
+And learn more below the data can guide visitors to the second player stats interface, which has more detailed data.  
+The team's data is displayed at the bottom of the homepage. Like the above, clicking learn more can lead visitors to the third interface, where detailed team data is displayed.  
+-About US  
+This explains our commitment (data authenticity of web pages)
+
+## Webpage introduction made by Joomla
+In order to separate them from the web pages produced by WordPress, I merged the four web pages produced by WordPress into one web page. By continuously scrolling down, I can gradually see all the data.  
+  
+The home page begins to explain the type of web page, and the subtitle explains the authenticity of the web page data.  
+Scroll down to see brief statistics on players and teams  
+Continue scrolling to see more detailed data  
+Of course, if you are a mobile phone or iPad user, for the sake of a simple interface, only simple data is displayed.
