@@ -34,4 +34,5 @@ In order to separate them from the web pages produced by WordPress, I merged the
 The home page begins to explain the type of web page, and the subtitle explains the authenticity of the web page data.  
 Scroll down to see brief statistics on players and teams  
 Continue scrolling to see more detailed data  
-Of course, if you are a mobile phone or iPad user, for the sake of a simple interface, only simple data is displayed.
+Of course, if you are a mobile phone or iPad user, for the sake of a simple interface, only simple data is displayed.  
+- If you doubt the authenticity of the data, or find that the data is inaccurate, you can find our contact information at the bottom of the page
