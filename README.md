@@ -36,3 +36,24 @@ Scroll down to see brief statistics on players and teams
 Continue scrolling to see more detailed data  
 Of course, if you are a mobile phone or iPad user, for the sake of a simple interface, only simple data is displayed.  
 - If you doubt the authenticity of the data, or find that the data is inaccurate, you can find our contact information at the bottom of the page
+
+
+## A1’s learning journey
+# Learning activities and resources
+
+In A1 I decided to create a Premier League themed data website. I studied wordpress and joomla to make a website that distinguishes week2 and week3.
+
+I used LinkedIn and YouTube videos to learn how to create a new web page under the same domain name  
+https://www.youtube.com/watch?v=O79pJ7qXwoE  
+https://www.youtube.com/watch?v=h5VZwTLdgdM  
+ 
+- estimated time
+I spent two and a half days researching. On the first day, I watched videos to learn wordpress, and then made a web page
+The next day I watched the video to learn joomla and made a joomla web page in the afternoon
+On the morning of the third day, I wrote the readme of github
+
+- Content insights
+My Premier League Data Center aims to provide users with simple and clear Premier League data. In order to let users understand and love the Premier League better, I created a post-match data center.
+
+- Learn insights
+In the process of developing the website, I learned wordpress and joomla through resources such as youtube and LinkedIn Learning. This enriched my skillset and contributed to a more comprehensive understanding of website development.
