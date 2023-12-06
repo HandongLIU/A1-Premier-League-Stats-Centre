@@ -47,13 +47,13 @@ I used LinkedIn and YouTube videos to learn how to create a new web page under t
 https://www.youtube.com/watch?v=O79pJ7qXwoE  
 https://www.youtube.com/watch?v=h5VZwTLdgdM  
  
-- estimated time
+- estimated time  
 I spent two and a half days researching. On the first day, I watched videos to learn wordpress, and then made a web page
 The next day I watched the video to learn joomla and made a joomla web page in the afternoon
 On the morning of the third day, I wrote the readme of github
 
-- Content insights
+- Content insights  
 My Premier League Data Center aims to provide users with simple and clear Premier League data. In order to let users understand and love the Premier League better, I created a post-match data center.
 
-- Learn insights
+- Learn insights  
 In the process of developing the website, I learned wordpress and joomla through resources such as youtube and LinkedIn Learning. This enriched my skillset and contributed to a more comprehensive understanding of website development.
